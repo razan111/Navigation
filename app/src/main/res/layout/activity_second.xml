@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".Second">
+
+
+    <TextView
+        android:id="@+id/Move"
+        android:layout_width="421dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="   This is second page"
+        android:textSize="40dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="28dp"
+        tools:layout_editor_absoluteY="329dp" />
+
+
+</LinearLayout>
+
+
